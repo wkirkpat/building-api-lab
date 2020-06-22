@@ -1,6 +1,1 @@
-{
-    "0": "{\"name\":\"Sara\",\"text\":\"Bye\"}",
-    "1": "{\"name\":\"Sara\",\"text\":\"Hello\"}",
-    "nextid": 2,
-    "\"0\"": "{\"name\":\"Will\",\"text\":\"Bye\"}"
-}
+{"30":{"name":"Will","text":"Hello"},"31":{"name":"Will","text":"Hello"},"nextid":32}
